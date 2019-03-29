@@ -1,0 +1,55 @@
+html{
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+
+.jumbotron img {
+    width: 200px;
+    border: 5px solid #eaeaea;
+}
+
+.jumbotron {
+    background-image: url('gitar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #eaeaea;
+
+}
+
+
+.besar {
+    height:100vh;
+}
+
+hr {
+    width: 250px;
+    border-top :3px solid black;
+}
+
+section {
+    min-height: 400px;
+}
+
+.portfolio {
+    background-color: #dcdcdc;
+}
+
+footer{
+    position: absolute;
+    width: 216vh;
+    height: 100px;
+    bottom: 0;
+    background-color: rgb(37, 35, 35);
+    color: white;
+    
+}
+
+.contact {
+    height: 600px;
+}
+
